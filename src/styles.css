@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  place-items: center;
+}
+
+.card2 {
+  margin: auto;
+  margin-bottom: 2rem;
+  border-spacing: 0 1em;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 15rem;
+  height: fit-content;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.card-img2 {
+  height: 16rem;
+  border-radius: 1rem 1rem 0rem 0rem;
+  margin: auto;
+}
+
+.card2:hover {
+  box-shadow: 0 25px 25px 0 rgba(5, 5, 5, 0.4);
+}
+
+.title2 {
+  font-weight: bold;
+  font-size: larger;
+  padding: 1rem;
+}
+
+.product-desc2 {
+  display: block;
+  font-size: large;
+  padding: 1rem;
+}
+
+.positioning {
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  place-items: center;
+}
+
+.strike {
+  text-decoration: line-through;
+  margin: 0 2rem;
+  font-weight: lighter;
+}

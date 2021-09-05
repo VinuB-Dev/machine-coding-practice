@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "brand": "Helmont",
+    "name": "Striped Men Hooded Neck Red, Black T-Shirt",
+    "actualPrice": 999,
+    "price": 201,
+    "discount": 79,
+    "gender": "Men",
+    "sizes": ["S", "M", "L", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/880/1056/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=50"
+  },
+  {
+    "id": "2",
+    "brand": "Helmont",
+    "name": "Classic Black Men Hoodie",
+    "actualPrice": 999,
+    "price": 211,
+    "discount": 77,
+    "gender": "Men",
+    "sizes": ["S", "M", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/kph8h3k0/fabric/t/p/y/no-unstitched-36-retort-fashion-original-imag3pjuyxugkp6d.jpeg?q=50"
+  },
+  {
+    "id": "3",
+    "brand": "Allen Solly",
+    "name": "Solid Men Polo Neck Black T-Shirt",
+    "actualPrice": 899,
+    "price": 494,
+    "discount": 45,
+    "gender": "Men",
+    "sizes": ["S", "M"],
+    "image": "https://rukminim1.flixcart.com/image/880/1056/k0r15e80/t-shirt/p/e/k/m-askporgfj72665-allen-solly-original-imafkh3zfzgjuxch.jpeg?q=50"
+  },
+  {
+    "id": "4",
+    "brand": "Allen Solly",
+    "name": "Solid Men Polo Neck Yellow T-Shirt",
+    "actualPrice": 1049,
+    "price": 576,
+    "discount": 45,
+    "gender": "Men",
+    "sizes": ["S", "L", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/880/1056/k7c88sw0/t-shirt/m/n/b/m-askpwrgfc90299-allen-solly-original-imafph6krmbsaunq.jpeg?q=50"
+  },
+  {
+    "id": "5",
+    "brand": "Dressberry",
+    "name": "Solid Women Round Neck Maroon T-Shirt",
+    "actualPrice": 499,
+    "price": 189,
+    "discount": 62,
+    "gender": "Women",
+    "sizes": ["XL"],
+    "image": "https://rukminim1.flixcart.com/image/880/1056/kj8wccw0-0/t-shirt/z/a/o/l-11902710-dressberry-original-imafyupzbhqdum4a.jpeg?q=50"
+  },
+  {
+    "id": "6",
+    "brand": "Dressberry",
+    "name": "Embossed Women V Neck Grey T-Shirt",
+    "actualPrice": 849,
+    "price": 317,
+    "discount": 62,
+    "gender": "Women",
+    "sizes": ["S", "L", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/880/1056/jvfk58w0/t-shirt/a/f/h/s-118dbkaop026027-b-dressberry-original-imafgcyygd4peeef.jpeg?q=50"
+  },
+  {
+    "id": "7",
+    "brand": "Blezza",
+    "name": "Casual Regular Sleeves Women Multicolor Top",
+    "actualPrice": 1199,
+    "price": 499,
+    "discount": 62,
+    "gender": "Women",
+    "sizes": ["M", "L", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/880/1056/kbpeoi80/top/w/j/j/m-rr-tp133-blezza-original-imafty4m7pt6eevc.jpeg?q=50"
+  },
+  {
+    "id": "8",
+    "brand": "Blezza",
+    "name": "Casual Regular Sleeves Solid Women Yellow Top",
+    "actualPrice": 1999,
+    "price": 273,
+    "discount": 86,
+    "gender": "Women",
+    "sizes": ["S", "L", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/880/1056/kflftzk0/top/j/6/z/s-rr-tp193-blezza-original-imafwyzhs3ekwqgf.jpeg?q=50"
+  }
+]
